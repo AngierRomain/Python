@@ -1,0 +1,4 @@
+>>> L=[4,8,9]
+>>> len(L) renvoie la taille de la liste
+3
+>>> 

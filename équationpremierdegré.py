@@ -1,0 +1,1 @@
+def équationpremierdegré(a,b)
